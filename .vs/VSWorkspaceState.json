@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\test"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\test\\Campaign.test.js",
   "PreviewInSolutionExplorer": false
 }
