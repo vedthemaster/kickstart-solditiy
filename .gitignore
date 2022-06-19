@@ -2,3 +2,4 @@ node_modules
 .next
 ethereum/deploy.js
 ethereum/factory.js
+ethereum/build
